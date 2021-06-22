@@ -1,6 +1,7 @@
-streamlit
-pandas
-matplotlib
-seaborn
-statsbombpy
-mplsoccer
+streamlit==0.83.0
+pandas==1.1.5
+numpy>=1.15.4
+matplotlib==3.2.2
+seaborn==0.11.1
+statsbombpy==1.0
+mplsoccer==1.0.5
